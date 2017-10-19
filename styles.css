@@ -14,7 +14,7 @@ exceptionally ditracting distractions.
                _____
        _..--'''@   @'''--.._
      .'   @_/-//-\/>/>'/ @  '.
-    (  @  /_<//<'/----------^-)  - THE CAKE IS A LIE!!
+    (  @  /_<//<'/----------^-)  - Like this cake
     |'._  @     //|###########|
     |~  ''--..@|',|}}}}}}}}}}}|
     |  ~   ~   |/ |###########|
@@ -25,7 +25,7 @@ exceptionally ditracting distractions.
 /* Overall Styling */
 html {
     display: inline-block;
-    background-color: sepia;
+    background-color: #c48f25;
 }
 body {
     margin-top: 0px;
@@ -36,7 +36,7 @@ body {
 
 /* Header */
 .header {
-    background-color: sepia;
+    background-color: #c48f25;
 }
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -220,7 +220,7 @@ p {
     border: none;
     outline: none;
     background-color: #111111;
-    color: sepia;
+    color: #c48f25;
     cursor: pointer;
     padding: 15px;
     border-radius: 10px;
@@ -237,7 +237,7 @@ p {
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
-    text-shadow: 1px 1px sepia;
+    text-shadow: 1px 1px #c48f25;
 }
 .product h2 {
     color: #000000;
@@ -258,7 +258,7 @@ p {
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
     color: #111111;
-    text-shadow: 1px 1px sepia;
+    text-shadow: 1px 1px #c48f25;
 }
 .contactaa {
     float: left;
@@ -273,7 +273,7 @@ li {
     font-size: 14px;
     list-style-type: none;
     color: white;
-    text-shadow: 1px 1px sepia;
+    text-shadow: 1px 1px #c48f25;
 }
 .contacta {
     padding-left: 6px;
@@ -291,7 +291,7 @@ article {
     display: inline-block;
 }
 .features {
-    background-color: sepia;
+    background-color: #c48f25;
     opacity: 0.8;
 }
 article h2 {
@@ -307,11 +307,11 @@ article h2 {
     font-size: 20px;
 }
 .description {
-    background-color: sepia;
+    background-color: #c48f25;
     opacity: 0.8;
 }
 .mainpage .features {
-    background-color: sepia;
+    background-color: #c48f25;
     opacity: 0.8;
 }
 
@@ -332,6 +332,6 @@ footer h3 {
 footer {
     width: 100%;
     display: inline-block;
-    background-color: sepia;
+    background-color: #c48f25;
     margin: 0;
 }
