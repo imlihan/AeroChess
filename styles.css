@@ -25,7 +25,7 @@ exceptionally ditracting distractions.
 /* Overall Styling */
 html {
     display: inline-block;
-    background-color: black;
+    background-color: sepia;
 }
 body {
     margin-top: 0px;
@@ -36,15 +36,15 @@ body {
 
 /* Header */
 .header {
-    background-color: black;
+    background-color: sepia;
 }
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: #076107;
+    color: #000000;
     padding-left: 42.5%;
 }
 .header span {
-    color: #066606;
+    color: #000000;
     display: inline-block;
     float: left;
     text-align: center;
@@ -90,13 +90,13 @@ p {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #066606;
+    color: #000000;
     display: block;
     transition: 0.3s;
 }
 
 .sidenav a:hover {
-    color: #1BAD1B;
+    color: #111111;
 }
 
 .sidenav .closebtn {
@@ -117,11 +117,11 @@ p {
 }
 /* Main Page */
 .mainpage h2 {
-    color: #054905;
+    color: #000000;
     text-align: center;
 }
 .mainpage p {
-    color: #1BAD1B;
+    color: #1a1a1a;
     text-align: center;
 }
 
@@ -168,7 +168,7 @@ p {
 }
 .caption span.border {
     background-color: #111;
-    color: #1BAD1B;
+    color: #1a1a1a;
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
@@ -184,24 +184,24 @@ p {
     padding-bottom: 40px
 }
 .about h2 {
-    color: #054905;
+    color: #000000;
 }
 .about p {
-    color: #1BAD1B;
+    color: #1a1a1a;
 }
 
 
 /*Java Script about page*/
 .js-demo h2 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #054905;
+    color: #000000;
 }
 .js-demo p {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #1BAD1B;
 }
 .js-demo button {
-    background-color: #089C08;
+    background-color: #111111;
     border: none;
     color: white;
     padding: 20px;
@@ -219,8 +219,8 @@ p {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #089C08;
-    color: black;
+    background-color: #111111;
+    color: sepia;
     cursor: pointer;
     padding: 15px;
     border-radius: 10px;
@@ -228,7 +228,7 @@ p {
 }
 
 #topbtn:hover {
-    background-color: #555;
+    background-color: #E4BB93;
 }
 
 /* Product Page */
@@ -237,19 +237,19 @@ p {
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px sepia;
 }
 .product h2 {
-    color: #054905;
+    color: #000000;
 }
 .product p {
-    color: #1BAD1B;
+    color: #111111;
 }
 .producta h2 {
-    color: #054905;
+    color: #000000;
 }
 .producta p {
-    color: #1BAD1B;
+    color: #111111;
 }
 
 
@@ -257,15 +257,15 @@ p {
 .contacta h3 {
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #054905;
-    text-shadow: 1px 1px black;
+    color: #111111;
+    text-shadow: 1px 1px sepia;
 }
 .contactaa {
     float: left;
 }
 .contacta p {
     font-family: Arial, Helvetica, sans-serif;
-    color: #054905;
+    color: #111111;
     text-shadow: 1px 1px #1BAD1B;
 }
 li {
@@ -273,7 +273,7 @@ li {
     font-size: 14px;
     list-style-type: none;
     color: white;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px sepia;
 }
 .contacta {
     padding-left: 6px;
@@ -291,40 +291,40 @@ article {
     display: inline-block;
 }
 .features {
-    background-color: black;
+    background-color: sepia;
     opacity: 0.8;
 }
 article h2 {
-    color: #054905;
+    color: #000;
 }
 .producta article h2 {
-    color: #054905;
+    color: #000;
 }
 .product article p {
-    color: #1BAD1B;
+    color: #111;
 }
 .description h2 {
     font-size: 20px;
 }
 .description {
-    background-color: black;
+    background-color: sepia;
     opacity: 0.8;
 }
 .mainpage .features {
-    background-color: black;
+    background-color: sepia;
     opacity: 0.8;
 }
 
 /* Footer */
 footer a {
     text-decoration: none;
-    color: #76EE76;
+    color: #1a1a1a;
     position: absolute;
     right: 0;
     padding-right: 6px;
 }
 footer h3 {
-    color: #8DCC8D;
+    color: #232323;
     font-family: Arial, Helvetica, sans-serif;
     float: left;
     padding-left: 6px;
@@ -332,6 +332,6 @@ footer h3 {
 footer {
     width: 100%;
     display: inline-block;
-    background-color: black;
+    background-color: sepia;
     margin: 0;
 }
