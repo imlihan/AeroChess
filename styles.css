@@ -293,7 +293,6 @@ article {
 }
 .features {
     background-color: #000000;
-    opacity: 0.8;
 }
 article h2 {
     color: #10930a;
@@ -309,11 +308,9 @@ article h2 {
 }
 .description {
     background-color: #000000;
-    opacity: 0.8;
 }
 .mainpage .features {
     background-color: #000000;
-    opacity: 0.8;
 }
 
 /* Footer */
