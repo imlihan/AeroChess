@@ -92,13 +92,13 @@ p {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #10930a;
+    color: #000000;
     display: block;
     transition: 0.3s;
 }
 
 .sidenav a:hover {
-    color: #19b719;
+    color: #515050;
 }
 
 .sidenav .closebtn {
