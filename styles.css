@@ -213,7 +213,7 @@ p {
     margin-left: 16px;
     border-radius: 10%;
 }
-#topbtn {
+.scrollToTop {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -229,7 +229,7 @@ p {
     opacity: 0.8;
 }
 
-#topbtn:hover {
+.scrollToTop:hover {
     background-color: #090909;
 }
 
