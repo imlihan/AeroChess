@@ -84,6 +84,7 @@ p {
     background-color: #000000;
     background-repeat: no-repeat;
     background-image: url("greenblack123");
+    background-size: 100% 200px;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
