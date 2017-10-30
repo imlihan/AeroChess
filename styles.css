@@ -38,11 +38,11 @@ body {
 /* Header */
 .header {
     background-color: #ffffff;
+    position: sticky;
 }
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: #a8a8a8;
-    padding-left: 47%;
 }
 .header span {
     color: #a8a8a8;
