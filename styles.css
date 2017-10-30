@@ -172,12 +172,13 @@ p {
     color: #ffffff;
 }
 .caption span.border {
-    background-color: #e5da3d;
+    background-color: #ffffff;
     color: #a8a8a8;
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;
 }
 
 
