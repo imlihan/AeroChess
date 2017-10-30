@@ -26,33 +26,26 @@ exceptionally ditracting distractions.
 /* Overall Styling */
 html {
     display: inline-block;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 body {
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    opacity: 1;
-    transition: 1s opacity;
-}
-
-body.fade-out {
-    opacity: 0;
-    transition: none;
 }
 
 /* Header */
 .header {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: #10930a;
+    color: #bababa;
     padding-left: 47%;
 }
 .header span {
-    color: #10930a;
+    color: #bababa;
     display: inline-block;
     float: left;
     text-align: center;
@@ -60,7 +53,7 @@ h1 {
     padding-left: 6px;
 }
 .header span:hover {
-    color: #19b719;
+    color: #d1d1d1;
 }
 
 
@@ -88,7 +81,7 @@ p {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #000000;
+    background-color: #ffffff;
     background-repeat: no-repeat;
     background-image: url("greenblack123");
     background-size: 100% 200px;
@@ -101,14 +94,14 @@ p {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #10930a;
+    color: #bababa;
     display: block;
     transition: 0.3s;
-    text-shadow: 2px 2px 10930a;
+    text-shadow: 2px 2px #ffffff;
 }
 
 .sidenav a:hover {
-    color: #12af0a;
+    color: #d1d1d1;
 }
 
 .sidenav .closebtn {
@@ -129,11 +122,11 @@ p {
 }
 /* Main Page */
 .mainpage h2 {
-    color: #10930a;
+    color: #bababa;
     text-align: center;
 }
 .mainpage p {
-    color: #10930a;
+    color: #bababa;
     text-align: center;
 }
 
@@ -176,11 +169,11 @@ p {
     top: 45%;
     width: 100%;
     text-align: center;
-    color: #000;
+    color: #e5da3d;
 }
 .caption span.border {
-    background-color: #000000;
-    color: #10930a;
+    background-color: #e5da3d;
+    color: #bababa;
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
@@ -196,21 +189,21 @@ p {
     padding-bottom: 40px
 }
 .about h2 {
-    color: #10930a;
+    color: #bababa;
 }
 .about p {
-    color: #10930a;
+    color: #bababa;
 }
 
 
 /*Java Script about page*/
 .js-demo h2 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #10930a;
+    color: #bababa;
 }
 .js-demo p {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #10930a;
+    color: #bababa;
 }
 
 .js-demo {
@@ -222,7 +215,7 @@ p {
 .js-demo button {
     background-color: #896768;
     border: none;
-    color: white;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
     text-decoration: none;
@@ -235,7 +228,7 @@ p {
 	height:130px;
 	padding:10px; 
 	text-align:center; 
-	background: #000000;
+	background: #e5da3d;
 	font-weight: bold;
 	color: #green;
 	text-decoration: none;
@@ -244,10 +237,10 @@ p {
 	right:40px;
 	display:none;
         opacity: 0.8;
-	background: url("arrow.png") no-repeat 0px 20px
+	background-image: url("arrow.png") no-repeat 0px 20px
 }
 .scrollToTop:hover{
-	text-decoration:none;
+	text-decoration: none;
 }
 
 /* Product Page */
@@ -256,19 +249,19 @@ p {
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;
-    text-shadow: 1px 1px #c48f25;
+    text-shadow: 1px 1px #000000;
 }
 .product h2 {
-    color: #10930a;
+    color: #bababa;
 }
 .product p {
-    color: #10930a;
+    color: #bababa;
 }
 .producta h2 {
-    color: #10930a;
+    color: #bababa;
 }
 .producta p {
-    color: #10930a;
+    color: #bababa;
 }
 
 
@@ -276,7 +269,7 @@ p {
 .contacta h3 {
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #10930a;
+    color: #bababa;
     text-shadow: 1px 1px #000000;
 }
 .contactaa {
@@ -284,14 +277,14 @@ p {
 }
 .contacta p {
     font-family: Arial, Helvetica, sans-serif;
-    color: #10930a;
-    text-shadow: 1px 1px #1BAD1B;
+    color: #bababa;
+    text-shadow: 1px 1px #000000;
 }
 li {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     list-style-type: none;
-    color: #10930a;
+    color: #bababa;
     text-shadow: 1px 1px #000000;
 }
 .contacta {
@@ -310,37 +303,37 @@ article {
     display: inline-block;
 }
 .features {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 article h2 {
-    color: #10930a;
+    color: #bababa;
 }
 .producta article h2 {
-    color: #10930a;
+    color: #bababa;
 }
 .product article p {
-    color: #10930a;
+    color: #bababa;
 }
 .description h2 {
     font-size: 20px;
 }
 .description {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 .mainpage .features {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 /* Footer */
 footer a {
     text-decoration: none;
-    color: #10930a;
+    color: #bababa;
     position: absolute;
     right: 0;
     padding-right: 6px;
 }
 footer h3 {
-    color: #10930a;
+    color: #bababa;
     font-family: Arial, Helvetica, sans-serif;
     float: left;
     padding-left: 6px;
@@ -348,6 +341,6 @@ footer h3 {
 footer {
     width: 100%;
     display: inline-block;
-    background-color: #000000;
+    background-color: #e5da3d;
     margin: 0;
 }
