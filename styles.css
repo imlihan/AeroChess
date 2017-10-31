@@ -43,7 +43,7 @@ body {
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: #a8a8a8;
-    margin: auto;
+    padding-left: 40%;
 }
 .header span {
     color: #a8a8a8;
