@@ -26,6 +26,7 @@ exceptionally ditracting distractions.
 /* Overall Styling */
 html {
     display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
     margin-top: 0px;
@@ -51,6 +52,7 @@ h1 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 6px;
+    margin-top: 13px;
 }
 .header span:hover {
     color: #d1d1d1;
@@ -64,19 +66,7 @@ h1 {
 
 
 /* Fonts and Padding */
-a {
-    font-family:Arial, Helvetica, sans-serif;
-}
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 35px;
-    padding-left: 1%;
-}
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    padding-left: 1%;
-}
+
 
 
 /* Nav Bar and Hamburger Styling */
@@ -136,7 +126,21 @@ p {
     text-align: center;
 }
 
+.description {
+    float: left;
+    width: 10%;
+    margin-right: 78%;
+    margin-left: 15%;
+    margin-top: 100px;
+    background-color: #ffffff;
+    display: inline-block;
+    border-radius: 25px;
+    text-align: center;
+}
 
+.borderline {
+    height: 25px;
+}
 
 
 /* Parallax */
@@ -150,7 +154,7 @@ p {
 }
 .parallax1 {
     background-image: url("20171030_084259.jpg");
-    height: 500px;
+    height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -158,7 +162,7 @@ p {
 }
 .parallax2 {
     background-image: url("scattered2.jpg");
-    height: 500px;
+    height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -166,7 +170,7 @@ p {
 }
 .parallax3 {
     background-image: url("greenblack1233.jpg");
-    height: 500px;
+    height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -206,20 +210,6 @@ p {
 
 
 /*Java Script about page*/
-.js-demo h2 {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #ffffff;
-}
-.js-demo p {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #ffffff;
-}
-
-.js-demo {
-	background-image: url("scattered.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-}
 
 .js-demo button {
     background-color: #896768;
@@ -266,25 +256,18 @@ p {
 .product p {
     color: #a8a8a8;
 }
-.producta h2 {
-    color: #a8a8a8;
-}
-.producta p {
-    color: #a8a8a8;
-}
-
 
 /* Contact Styling */
-.contacta h3 {
+.contact h3 {
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
     color: #bababa;
     text-shadow: 1px 1px #000000;
 }
-.contactaa {
+.contact {
     float: left;
 }
-.contacta p {
+.contact p {
     font-family: Arial, Helvetica, sans-serif;
     color: #a8a8a8;
     text-shadow: 1px 1px #000000;
@@ -296,42 +279,10 @@ li {
     color: #a8a8a8;
     text-shadow: 1px 1px #000000;
 }
-.contacta {
+.contact {
     padding-left: 6px;
 }
-.c-bg {
-    background-image: url("blur.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
 
-
-/* Articles and Features */
-article {
-    width: 100%;
-    display: inline-block;
-}
-.features {
-    background-color: #ffffff;
-}
-article h2 {
-    color: #a8a8a8;
-}
-.producta article h2 {
-    color: #a8a8a8;
-}
-.product article p {
-    color: #a8a8a8;
-}
-.description h2 {
-    font-size: 20px;
-}
-.description {
-    background-color: #ffffff;
-}
-.mainpage .features {
-    background-color: #ffffff;
-}
 
 /* Footer */
 footer a {
