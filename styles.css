@@ -26,7 +26,6 @@ exceptionally ditracting distractions.
 /* Overall Styling */
 html {
     display: inline-block;
-    background-color: #ffffff;
 }
 body {
     margin-top: 0px;
@@ -43,7 +42,7 @@ body {
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: #a8a8a8;
-    padding-left: 46%;
+    display: inline-block;
 }
 .header span {
     color: #a8a8a8;
@@ -55,6 +54,12 @@ h1 {
 }
 .header span:hover {
     color: #d1d1d1;
+}
+
+.header img {
+    height: 25px;
+    padding-left: 40%;
+    display: inline-block;
 }
 
 
@@ -131,8 +136,19 @@ p {
     text-align: center;
 }
 
+
+
+
 /* Parallax */
 .parallax {
+    background-image: url("lined.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax1 {
     background-image: url("20171030_084259.jpg");
     height: 500px;
     background-attachment: fixed;
@@ -140,16 +156,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.parallax1 {
-    background-image: url("greenblack1232.jpg");
-    height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .parallax2 {
-    background-image: url("greenblack1234.jpg");
+    background-image: url("scattered2.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -170,7 +178,7 @@ p {
     top: 45%;
     width: 100%;
     text-align: center;
-    color: #ffffff;
+    color: #ffffff
 }
 .caption span.border {
     background-color: #ffffff;
@@ -179,6 +187,7 @@ p {
     font-size: 25px;
     letter-spacing: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 25px;
 }
 
 
