@@ -303,4 +303,19 @@ footer {
     display: inline-block;
     background-color: #ffffff;
     margin: 0;
+    animation-name: footer;
+    animation-duration: 5s;
+    animation-iteration-count: infinate;
+    animation-direction: alternate;
+}
+
+@keyframe footer {
+	from {
+		backgroundc-color: #ffffff;
+		color: #a8a8a8;
+	}
+	to {
+		background-color: #2d2d2d;
+		color: #595959;
+	}
 }
