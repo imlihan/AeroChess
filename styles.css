@@ -127,21 +127,11 @@ h1 {
 }
 
 .description {
-    float: left;
-    width: 10%;
-    margin-right: 78%;
-    margin-left: 15%;
-    margin-top: 100px;
+    width: 100%;
     background-color: #ffffff;
     display: inline-block;
-    border-radius: 25px;
     text-align: center;
 }
-
-.borderline {
-    height: 25px;
-}
-
 
 /* Parallax */
 .parallax {
