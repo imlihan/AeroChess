@@ -53,6 +53,7 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 6px;
     margin-top: 13px;
+    position: fixed;
 }
 .header span:hover {
     color: #d1d1d1;
