@@ -140,6 +140,10 @@ h1 {
     text-align: center;
 }
 
+iframe {
+    width: 100%;
+}
+
 .description {
     width: 100%;
     background-color: #ffffff;
