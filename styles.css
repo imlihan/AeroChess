@@ -306,6 +306,15 @@ li {
     padding-left: 6px;
 }
 
+.contact1 {
+	float: left;
+	display: inline;
+}
+
+.contact2 {
+	float: right;
+	display: inline;
+}
 
 /* Footer */
 footer a {
