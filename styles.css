@@ -91,7 +91,7 @@ h1 {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #ffffff;
+    background-color: #efefef;
     background-repeat: no-repeat;
     background-image: url("greenblack123");
     background-size: 100% 200px;
@@ -107,7 +107,6 @@ h1 {
     color: #a8a8a8;
     display: block;
     transition: 0.3s;
-    text-shadow: 2px 2px #ffffff;
 }
 
 .sidenav a:hover {
