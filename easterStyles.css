@@ -1,0 +1,12 @@
+.mainContainer {
+    background-image: url("easterBackground.jpg");
+    display: inline-block;
+}
+
+.object {
+    float: left;
+    margin-left: 20%;
+    background-color: #43dd35;
+    border-radius: 15px;
+    color: #000000;
+}
