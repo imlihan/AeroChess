@@ -277,10 +277,13 @@ iframe {
 }
 .product h2 {
     color: #a8a8a8;
-    text-align: center;
+    float: left;
+    padding-left: 15%;
+    font-size: 40px;
 }
 .product p {
     color: #a8a8a8;
+    font-size: 30px;
 }
 
 /* Contact Styling */
