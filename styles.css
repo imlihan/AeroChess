@@ -284,6 +284,8 @@ iframe {
 .product p {
     color: #a8a8a8;
     font-size: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 /* Contact Styling */
