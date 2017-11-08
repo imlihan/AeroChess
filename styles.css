@@ -155,6 +155,15 @@ iframe {
 	height: 700px;
 }
 
+/* Background */
+
+.background1 {
+	background-image: url("background1.jpg");
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 /* Parallax */
 .parallax {
     background-image: url("lined.jpg");
@@ -279,13 +288,15 @@ iframe {
     color: #a8a8a8;
     float: left;
     padding-left: 15%;
-    font-size: 40px;
+    font-size: 30px;
+    display: inline-block;
 }
 .product p {
     color: #a8a8a8;
-    font-size: 30px;
-    padding-left: 20%;
-    padding-right: 20%;
+    font-size: 20px;
+    padding-left: 18%;
+    float: left;
+    display: inline-block;
 }
 
 /* Contact Styling */
