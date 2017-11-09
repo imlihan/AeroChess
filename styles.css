@@ -164,6 +164,9 @@ iframe {
 	background-size: cover;
 }
 
+.background1 h2{
+	font-size: 30px;
+	
 /* Parallax */
 .parallax {
     background-image: url("lined.jpg");
