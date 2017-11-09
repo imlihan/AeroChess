@@ -166,7 +166,9 @@ iframe {
 
 .background1 h2{
 	font-size: 30px;
-	
+	margin-top: 60px;
+}
+		
 /* Parallax */
 .parallax {
     background-image: url("lined.jpg");
