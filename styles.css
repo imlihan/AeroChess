@@ -164,10 +164,13 @@ iframe {
 	background-size: cover;
 }
 
-.background1 h2{
+.background1 h2 {
 	font-size: 30px;
-	margin-top: 60px;
+	margin-top: 160px;
 }
+
+.background1 p {
+	font-size
 		
 /* Parallax */
 .parallax {
