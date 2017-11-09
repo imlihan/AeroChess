@@ -9,5 +9,5 @@ Made for the St Paul Enterprise Project
 See Wiki for more info
 
 
-❄︎♏︎●︎●︎ ❍︎♏︎ ⬥︎♒︎♏︎■︎ ⍓︎□︎◆︎ ♑︎□︎⧫︎ ⧫︎♒︎♏︎ ♋︎■︎⬧︎⬥︎♏︎❒︎.
+"Tell me when you get the answer" - Translated from wingdings.
                                                                    
