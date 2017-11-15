@@ -317,26 +317,48 @@ iframe {
 }
 
 /* Product Page */
-.product {
-    background-image: url("chess.jpeg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    width: 100%;
+
+.optionFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 300px;
 }
+
+.optionFlex .product {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 400%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    text-align: center;
+}
+
 .product h2 {
     color: #a8a8a8;
-    float: left;
-    padding-left: 15%;
     font-size: 30px;
     display: inline-block;
 }
 .product p {
     color: #a8a8a8;
     font-size: 20px;
-    padding-left: 18%;
-    float: left;
     display: inline-block;
 }
+
+.army {
+    background-image: url("lined.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.deal {
+    background-image: url("lined.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
 
 /* Contact Styling */
 .contact h3 {
