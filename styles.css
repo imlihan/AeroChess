@@ -352,12 +352,14 @@ iframe {
     background-image: url("lined.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    color: white;
 }
 
 .deal {
     background-image: url("lined.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    color: black;
 }  
 
 /* Contact Styling */
