@@ -206,7 +206,8 @@ iframe {
 /* Parallax */
 .parallax {
     background-image: url("indexArt.jpg");
-    height: 700px;
+    height: 640px;
+    width: 240px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
