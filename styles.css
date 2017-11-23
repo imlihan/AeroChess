@@ -205,9 +205,8 @@ iframe {
 		
 /* Parallax */
 .parallax {
-    background-image: url("indexArt.jpg");
-    width: 100%;
-    height: 800px;
+    background-image: url("pieces2.jpg");
+    height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -353,14 +352,12 @@ iframe {
     background-image: url("lined.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
 }
 
 .deal {
     background-image: url("lined.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    color: black;
 }  
 
 /* Contact Styling */
